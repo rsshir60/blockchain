@@ -1,0 +1,20 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Read the initial pages of the documentation till the first api i.e. /assets api  : https://docs.coincap.io/ \r ignore most of the stuff ( it might seem very verbose at this stage) and just try to get a basic idea \r Now create an API key from the section which says  “Request API Key- Click here to request your API key”\r the “HEADER” section above it also contains details on how to use this API key\r “set the header field Authorization=Bearer XXXX” :- you have to create a header named “Authorization” and set its value to “Bearer XXXX” where XXXX stands for the API key that you have generated above",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsshir60/blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsshir60/blockchain/issues"
+  },
+  "homepage": "https://github.com/rsshir60/blockchain#readme"
+}
